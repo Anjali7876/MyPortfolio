@@ -1,0 +1,49 @@
+#Skill{
+    border-top: 8px solid rgb(22, 21, 21);
+    padding-bottom:7px;
+}
+
+.column01{
+    border-radius:25px solid black !important;
+    box-shadow: 2px 1px 11px 1px lightgrey;
+    font-size:28px;
+    color:white;
+   
+}
+.column02{
+    background-color: rgb(253, 254, 255);
+    /* border-radius: 22px; */
+    color:white;
+    width:100%;
+    height:80%;
+}
+.iconskill:hover{
+     color:rgb(9, 66, 66);
+     
+}
+.skillleftcol:hover{
+         background-color: rgb(195, 241, 241);
+         border-radius: 10px;
+}
+.logos1{
+    height:130px;
+    text-align: center;
+    margin-top: 12px;
+}
+.logos2{
+    height:120px;
+    text-align: center;
+    margin-top: 12px;
+}
+.logos3{
+    height:120px;
+    text-align: center;
+    margin-top: 12px;
+}
+.logos4{
+    height:110px;
+    text-align: center;
+    margin-top: 12px;
+}
+
+

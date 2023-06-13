@@ -1,0 +1,31 @@
+
+/* -------------- N A V B A R  START------------------- */
+.Navbg{
+    background-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+#Navheading{
+    font-size: 18px;
+    margin-left: 350px;
+    gap:25px;
+}
+ .Logo{
+     color:white;
+     font-size: 25px;
+     background-color:rgb(25, 54, 54);
+     border-radius: 50%;
+     padding:5px 8px 5px 8px;
+     font-weight: bold;
+     text-align: center;
+ }
+ #SubLogo{
+    color:white;
+    font-size: 21px;
+
+ }
+ .Underlinelogo{
+    
+    text-decoration: underline 2px  black;
+ }
+/* -------------- N A V B A R  END------------------- */

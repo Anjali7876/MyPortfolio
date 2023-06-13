@@ -1,0 +1,39 @@
+.abouttitle{
+    padding-top: 100px;
+    font-size: 29px;
+    font-weight: bolder;
+    color:black;
+
+}
+.leftcol{
+    border-right:2px solid ;
+
+}
+.indentcol{
+    text-indent: 30px;
+}
+.rows{
+    padding-top: 40px;
+}
+.iconabout{
+    font-size: 23px;
+    color:black;
+   
+}
+.rightheading{
+    color: #052732;
+}
+.linepara{
+    line-height: 10px;
+}
+.leftheading1{
+    font-size: 19px;
+}
+.iconaboutright{
+    font-size:25px;
+    color:black;
+    padding-right: 15px;
+}
+#About{
+    padding-bottom: 33px;
+}

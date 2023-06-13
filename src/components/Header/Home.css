@@ -1,0 +1,98 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.homesection1{
+    padding-top: 160px;
+    padding-bottom: 140px;
+    background-color: rgb(25, 54, 54);
+    border-bottom: 8px solid rgb(22, 21, 21);
+    /* background-color:rgba(5, 72, 77, 0.909); */
+    /* background-color: rgb(105, 168, 170); */
+    /* width:100%; */
+}
+.leftimg{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+    border:0;
+    outline: 6px solid white;
+    outline-offset: 14px;
+}
+
+.Heading01{
+         font-size: 70px;
+         text-align: center;
+         color:white;
+         text-shadow: 2px 1px lightgrey;
+
+}
+.Heading02{
+    font-size:40px;
+    text-align: center;
+    color:white;
+    text-shadow: 2px 1px lightgrey;
+}
+.col-lg-3{
+    font-size: 22px;
+    font-weight: bold;
+    color:white;
+      
+}
+.col-lg-4 p{
+    color:black;
+}
+.col-lg-3 p{
+    color:black;
+    text-align: center;
+}
+/* .phone{
+    font-size: 22px;
+    font-weight: bold;
+    color:white;
+} */
+
+.icon{
+    font-size:6px;
+    background-color: white;
+    color:black;
+    width:40px;
+    height:40px;
+    border-radius:20%;
+
+}
+.texticon{
+    /* font-size: 20px; */
+    color:black;
+}
+.Cvbtn{
+   
+    border:1px solid rgb(0, 0, 0);
+    border-radius:25px;
+    width:150px;
+    height:45px;
+    color:white;
+    margin-top: 42px;
+    font-weight: bold;
+    background-color: rgb(2, 37, 59);
+}
+
+.Modal1:hover{
+    border:2px solid rgb(4, 78, 118);
+    border-radius:25px;
+    width:150px;
+    height:45px;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+   
+}
+.Modal1{
+    border:2px solid rgb(4, 78, 118);
+    border-radius:25px !important;;
+    width:150px;
+    height:45px;
+    background-color: rgb(2, 37, 59) !important;
+    font-weight: bold;
+    
+}
