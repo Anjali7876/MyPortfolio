@@ -50,3 +50,6 @@ textarea:focus{
 .rightcolindent{
     text-indent: 60px;
 }
+.Container .Box{
+    display: flex;
+}
